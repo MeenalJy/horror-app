@@ -65,9 +65,3 @@ GitHub Pages is a service provided by GitHub to host static websites directly fr
    - Save the settings.
 
 Your React app should now be live at `https://<your-username>.github.io/horror-app`.
-
-
-Happy Coding!
-```
-
-Replace `<your-username>` with your GitHub username and `<video-id>` with the actual YouTube video ID. This template provides a clear, structured README for your project, making it easy for others to understand how to deploy a React app using GitHub Pages.
