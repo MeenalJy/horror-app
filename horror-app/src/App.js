@@ -1,3 +1,4 @@
+import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 
@@ -6,6 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+        <img src={`${process.env.PUBLIC_URL}/horror.jpg`} alt="horror" /> {/* Add this line to display your image */}
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
