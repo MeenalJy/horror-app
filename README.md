@@ -65,3 +65,5 @@ GitHub Pages is a service provided by GitHub to host static websites directly fr
    - Save the settings.
 
 Your React app should now be live at `https://<your-username>.github.io/horror-app`.
+![github-page-horror-app](images/github-page-horror-app.png)
+
