@@ -1,4 +1,4 @@
-# Horror App
+# Horror App🎃👀👻 
 
 This repository demonstrates how to deploy a React app using GitHub Pages. GitHub Pages is a static site hosting service that takes HTML, CSS, and JavaScript files straight from a repository on GitHub, optionally runs the files through a build process, and publishes a website.
 
@@ -9,7 +9,6 @@ This repository demonstrates how to deploy a React app using GitHub Pages. GitHu
   - [Steps to Deploy a React App to GitHub Pages](#steps-to-deploy-a-react-app-to-github-pages)
 - [Repository Settings](#repository-settings)
   - [Settings Configuration](#settings-configuration)
-- [Video Tutorial](#video-tutorial)
 
 ## What is GitHub Pages
 
