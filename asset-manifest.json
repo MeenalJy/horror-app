@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/horror-app/static/css/main.f855e6bc.css",
+    "main.js": "/horror-app/static/js/main.735a7b2d.js",
+    "static/js/453.44ee04e8.chunk.js": "/horror-app/static/js/453.44ee04e8.chunk.js",
+    "static/media/logo.svg": "/horror-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/horror-app/index.html",
+    "main.f855e6bc.css.map": "/horror-app/static/css/main.f855e6bc.css.map",
+    "main.735a7b2d.js.map": "/horror-app/static/js/main.735a7b2d.js.map",
+    "453.44ee04e8.chunk.js.map": "/horror-app/static/js/453.44ee04e8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.735a7b2d.js"
+  ]
+}
