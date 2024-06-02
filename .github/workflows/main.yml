@@ -16,10 +16,10 @@ jobs:
         with: 
           node-version: 20 
       - name: npm install dependencies
-        run: npm install
+        run: sudo npm install
           
       - name: build project
-        run: npm run build
+        run: sudo npm run build
       - name: Upload production-ready build artifacts 
         uses: actions/upload-artifact@v4.3.3
         with: 
