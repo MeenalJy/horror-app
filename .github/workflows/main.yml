@@ -18,13 +18,14 @@ jobs:
         uses: actions/setup-node@v4
         with: 
           node-version: 20 
-      - name: npm install
-        uses: Jaid/action-npm-install@v1.2.4
+      - name: npm install dependencies
+        uses: bahmutov/npm-install@v1
         with: 
           packageManager: "auto"
+          
       - name: build project
         run: npm run build
-      - name: Upload production ready build artifacts 
+      - name: Upload production-ready build artifacts 
         uses: actions/upload-artifact@v4.3.3
         with: 
           name: production-files
