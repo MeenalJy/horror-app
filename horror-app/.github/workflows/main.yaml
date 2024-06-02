@@ -20,8 +20,6 @@ jobs:
           node-version: 20 
       - name: npm install dependencies
         uses: bahmutov/npm-install@v1
-        with: 
-          packageManager: "auto"
           
       - name: build project
         run: npm run build
